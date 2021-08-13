@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Concert Tracker</string>
+    <string name="name">Concert/Tour Name</string>
+    <string name="hint_name">Beyoncé The Formation World Tour</string>
+    <string name="desc">Description</string>
+    <string name="hint_desc">The concert was amazing ...</string>
+    <string name="loc">Location</string>
+    <string name="hint_loc">MetLife Stadium</string>
+    <string name="year">Year</string>
+    <string name="hint_year">2011</string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <string name="title_activity_main">Insert Concert</string>
+    <string name="title_activity_second">Show Concert</string>
+    <string name="title_activity_third">Modify Concert</string>
+
+    <string name="id">Island ID</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btnInsert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show all Concerts with 5 stars</string>
+</resources>
